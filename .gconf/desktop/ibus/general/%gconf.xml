@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="preload_engines" mtime="1387964528" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>mozc-jp</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>anthy</stringvalue>
+		</li>
+	</entry>
+	<entry name="preload_engine_mode" mtime="1387964519" type="int" value="0"/>
+</gconf>

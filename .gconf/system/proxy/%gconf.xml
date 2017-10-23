@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="ftp_port" mtime="1508721251" type="int" value="8080"/>
+	<entry name="secure_port" mtime="1508721251" type="int" value="8080"/>
+	<entry name="ftp_host" mtime="1508721251" type="string">
+		<stringvalue>192.168.1.32</stringvalue>
+	</entry>
+	<entry name="secure_host" mtime="1508721251" type="string">
+		<stringvalue>192.168.1.32</stringvalue>
+	</entry>
+	<entry name="mode" mtime="1508721251" type="string">
+		<stringvalue>manual</stringvalue>
+	</entry>
+</gconf>

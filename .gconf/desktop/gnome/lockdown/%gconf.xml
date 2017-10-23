@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="disable_print_setup" mtime="1508721251" type="bool" value="false"/>
+	<entry name="disable_lock_screen" mtime="1508721251" type="bool" value="false"/>
+	<entry name="disable_application_handlers" mtime="1508721251" type="bool" value="false"/>
+	<entry name="disable_user_switching" mtime="1387016427" type="bool" value="true"/>
+</gconf>

@@ -1,0 +1,17 @@
+export XDG_CACHE_HOME="/tmp/.cache-${USER}"
+
+if [ ! -d "${XDG_CACHE_HOME}" } ; then
+	install -dm0700 "${XDG_CACHE_HOME}"
+fi
+
+if [ -f ~/.gtk-bookmarks ]; then
+    wdavpath1=`echo ${HOME} | cut -d "/" -f 3`
+    wdavpath2=`echo ${HOME} | cut -d "/" -f 4`
+    chkstring="davs://netadm.iss.tokushima-u.ac.jp/${wdavpath1}/${wdavpath2}/ WEB-DAV"
+    grep -q "${chkstring}" ~/.gtk-bookmarks
+    retval=$?
+    if [ ${retval} -eq 1 ]; then
+        echo "${chkstring}" >> ~/.gtk-bookmarks
+    fi
+fi
+

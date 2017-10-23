@@ -1,0 +1,14 @@
+;set line /dev/ttyS0  ; for Linux
+set line /dev/ttyUSB0  ; for USB-SERIAL
+set speed 57600  ; 3069s
+set flow-control none
+set file type binary
+set terminal bytesize 8
+set command bytesize 8
+set stop-bits 1
+set parity none
+; don't wait prompt when transmit (default: wait 0x0a)
+set transmit prompt 0
+set carrier-watch off
+set flow xon/xoff
+set prompt C-Kermit>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="sources" mtime="1387026971" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>&lt;?xml version=&quot;1.0&quot;?&gt;
+&lt;group uid=&quot;1387026971.5426.0@clpc001&quot; name=&quot;&amp;#x3053;&amp;#x306E;&amp;#x30B3;&amp;#x30F3;&amp;#x30D4;&amp;#x30E5;&amp;#x30FC;&amp;#x30BF;&amp;#x30FC;&quot; base_uri=&quot;local:&quot; readonly=&quot;no&quot;&gt;&lt;source uid=&quot;1387026971.5426.1@clpc001&quot; name=&quot;&amp;#x500B;&amp;#x4EBA;&quot; relative_uri=&quot;system&quot;&gt;&lt;properties&gt;&lt;property name=&quot;completion&quot; value=&quot;true&quot;/&gt;&lt;/properties&gt;&lt;/source&gt;&lt;/group&gt;
+</stringvalue>
+		</li>
+	</entry>
+</gconf>

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/quota.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ja_JP]=quotachk
+Name=quotachk
+Comment[ja_JP]=クウォーター制限オーバー時にメッセージを表示
+Comment=クウォーター制限オーバー時にメッセージを表示

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/local/bin/login.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ja_JP]=login.sh
+Name=login.sh
+Comment[ja_JP]=ログイン時に実行するスクリプト
+Comment=ログイン時に実行するスクリプト

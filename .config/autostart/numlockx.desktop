@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/usr/bin/numlockx on
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[ja_JP]=NumulokON
+Name=NumulokON
+Comment[ja_JP]=ログイン後、Numlockをon
+Comment=ログイン後、Numlockをon

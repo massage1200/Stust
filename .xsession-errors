@@ -1,0 +1,96 @@
+/usrhome/ISM17/c501737012/.xprofile: 3 行: [: `]'がありません
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+gnome-keyring-daemon: insufficient process capabilities, unsecure memory might get used
+
+(gsettings-data-convert:11653): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+
+(gsettings-data-convert:11653): GLib-GIO-WARNING **: g_settings_set_value: value for key 'visual-bell-type' in schema 'org.gnome.desktop.wm.preferences' is outside of valid range
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-left' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-right' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-up' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'switch-to-workspace-down' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'show-desktop' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'panel-main-menu' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'panel-run-dialog' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'toggle-maximized' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'maximize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'unmaximize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'toggle-shaded' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'minimize' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-left' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-right' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-up' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gsettings-data-convert:11653): GLib-GIO-CRITICAL **: g_settings_set_value: key 'move-to-workspace-down' in 'org.gnome.desktop.wm.keybindings' expects type 'as', but a GVariant of type 's' was given
+
+(gnome-settings-daemon:11658): power-plugin-WARNING **: gnome-session is not available
+Backend     : gconf
+Integration : true
+Profile     : unity
+Adding plugins
+Initializing core options...done
+Initializing composite options...done
+Initializing opengl options...done
+Initializing decor options...done
+Initializing vpswitch options...done
+Initializing snap options...done
+Initializing mousepoll options...done
+Initializing resize options...done
+Initializing place options...done
+Initializing move options...done
+** Message: applet now removed from the notification area
+Initializing wall options...done
+Initializing grid options...done
+I/O warning : failed to load external entity "/usrhome/ISM17/c501737012/.compiz/session/108d562bd5d1c1568b150872125090294400000115750037"
+Initializing session options...done
+Initializing gnomecompat options...done
+Initializing animation options...done
+Initializing fade options...done
+Initializing unitymtgrabhandles options...done
+Initializing workarounds options...done
+Initializing scale options...done
+compiz (expo) - Warn: failed to bind image to texture
+Initializing expo options...done
+Initializing ezoom options...done
+** Message: using fallback from indicator to GtkStatusIcon
+
+(compiz:11686): GConf-CRITICAL **: gconf_client_add_dir: assertion `gconf_valid_key (dirname, NULL)' failed
+GConf エラー: 設定サーバーに接続できませんでした: D-Bus エラー: 存在している読み込み専用の値には上書きできません: '/desktop/gnome/lockdown/disable_user_switching' の値は設定パスの前で読み込み専用ソースの中にセットします
+
+** (gnome-settings-daemon:11658): CRITICAL **: setup_bg: assertion `manager->priv->bg == NULL' failed
+No LSB modules are available.
+Initializing unityshell options...done
+
+(gnome-settings-daemon:11658): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+Setting Update "main_menu_key"
+Setting Update "run_key"
+** Message: moving back from GtkStatusIcon to indicator
+
+** (gnome-screensaver:12591): WARNING **: このセッションで既にスクリーンセーバーが実行中です
+
+(gnome-settings-daemon:11658): GLib-CRITICAL **: g_variant_get_int32: assertion `g_variant_is_of_type (value, G_VARIANT_TYPE_INT32)' failed
+
+(check-new-release-gtk:13765): GLib-GIO-CRITICAL **: g_settings_set_value: key 'release-check-time' in 'com.ubuntu.update-notifier' expects type 'u', but a GVariant of type 'i' was given
+
+(gnome-settings-daemon:11658): libappindicator-CRITICAL **: app_indicator_set_label: assertion `IS_APP_INDICATOR (self)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' がエラー 255 を返しました: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error そのようなファイルやディレクトリはありません
+Please ask your system administrator to enable user sharing.
+
